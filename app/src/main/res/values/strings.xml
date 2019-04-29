@@ -1,0 +1,12 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Music player App</string>
+
+
+    <string name="ArabicAlbum">ArabicAlbum</string>
+
+
+    <string name="EnglishAlbum">EnglishAlbum</string>
+
+
+</resources>
