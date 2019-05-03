@@ -21,6 +21,4 @@ Code is properly-formatted, readable and runs error-free.
     Populating a ListView or GridView with an ArrayAdapter.
 
 ## Screenshots
-<img src="Screenshot_20190429-220816.png" width="250">
-
-
+<img src="Screenshots/Screenshot_20190429-200755.png" width="250">
