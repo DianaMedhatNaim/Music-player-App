@@ -12,6 +12,9 @@ Each button’s behavior is determined by an OnClickListener in the Java code ra
 Each button properly opens the intended activity using an explicit Intent.
 Code is properly-formatted, readable and runs error-free.
 ## Screenshots
-<img src="Screenshot_20190429-220816.png" width="250"><img src="Screenshot_20190429-220822.png" width="250">
-<img src="Screenshot_20190429-220829.png" width="250"><img src="Screenshot_20190429-220841.png" width="250"><img src="Screenshot_20190429-220849.png" width="250">
+<img src="Screenshot_20190429-220816.png" width="250">
+<img src="Screenshot_20190429-220822.png" width="250">
+<img src="Screenshot_20190429-220829.png" width="250">
+<img src="Screenshot_20190429-220841.png" width="250">
+<img src="Screenshot_20190429-220849.png" width="250">
 
