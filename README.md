@@ -20,5 +20,9 @@ Code is properly-formatted, readable and runs error-free.
     Looping through an ArrayList.
     Populating a ListView or GridView with an ArrayAdapter.
 
-## Screenshots
-<img src="Screenshots/Screenshot_20190429-200755.png" width="250">
+## Screenshot
+<img src="Screenshots/Screenshot_20190429-220816.png" width="200">
+<img src="Screenshots/Screenshot_20190429-220822.png" width="200">
+<img src="Screenshots/Screenshot_20190429-220829.png" width="200">
+<img src="Screenshots/Screenshot_20190429-220841.png" width="200">
+<img src="Screenshots/Screenshot_20190429-220849.png" width="200">
