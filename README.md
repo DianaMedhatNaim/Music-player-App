@@ -10,4 +10,6 @@ Each activity contains a TextView which explains the purpose of the activity.
 Each button’s behavior is determined by an OnClickListener in the Java code rather than by the android:onClick attribute in the XML Layout.
 Each button properly opens the intended activity using an explicit Intent.
 Code is properly-formatted, readable and runs error-free.
-##Screenshots
+## Screenshots
+<img src="Screenshots/Screenshot_20190429-200755.png" width="250"><img src="Screenshots/Screenshot_20190429-200849.png" width="250">
+<img src="Screenshots/Screenshot_20190429-200904.png" width="250">
